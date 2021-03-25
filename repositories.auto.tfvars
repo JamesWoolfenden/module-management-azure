@@ -10,6 +10,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -25,6 +26,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -40,6 +42,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -55,6 +58,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -70,6 +74,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -85,6 +90,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -100,6 +106,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -115,6 +122,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -130,6 +138,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -145,6 +154,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -160,6 +170,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -175,6 +186,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -190,6 +202,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "checkov",
@@ -207,6 +220,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "site",
@@ -224,6 +238,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -239,6 +254,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -254,6 +270,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -269,6 +286,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -284,6 +302,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = false
     topics = [
       "azurerm",
       "module",
@@ -299,6 +318,7 @@ repo = [
     has_wiki             = true
     visibility           = "public"
     vulnerability_alerts = true
+    overwrite            = true
     topics = [
       "azurerm",
       "module",
