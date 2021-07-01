@@ -1,4 +1,3 @@
-credentials_file = "~/examplea-a7f4fd301a80.json"
 repo = [
   {
     name                 = "terraform-azurerm-appserviceplan"
