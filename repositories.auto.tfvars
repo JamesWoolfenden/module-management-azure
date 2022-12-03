@@ -323,5 +323,73 @@ repo = [
       "module",
       "terraform",
     ]
+  },
+  {
+    name                 = "terraform-azurerm-acr"
+    description          = "Basic acr module"
+    default_branch       = "main"
+    has_downloads        = true
+    has_issues           = true
+    has_projects         = true
+    has_wiki             = true
+    visibility           = "public"
+    vulnerability_alerts = true
+    overwrite            = false
+    topics = [
+      "azurerm",
+      "module",
+      "terraform",
+    ]
+  },
+  {
+    name                 = "terraform-azurerm-pubsub"
+    description          = "Basic pubsub module"
+    default_branch       = "master"
+    has_downloads        = true
+    has_issues           = true
+    has_projects         = true
+    has_wiki             = true
+    visibility           = "public"
+    vulnerability_alerts = true
+    overwrite            = false
+    topics = [
+      "azurerm",
+      "module",
+      "terraform",
+    ]
+  },
+  {
+    name                 = "terraform-azurerm-kusto"
+    description          = "Basic kusto module"
+    default_branch       = "main"
+    has_downloads        = true
+    has_issues           = true
+    has_projects         = true
+    has_wiki             = true
+    visibility           = "public"
+    vulnerability_alerts = true
+    overwrite            = false
+    topics = [
+      "azurerm",
+      "module",
+      "terraform",
+    ]
+  },
+  {
+    name                 = "terraform-azurerm-keyvault"
+    description          = "Basic keyvault module"
+    default_branch       = "master"
+    has_downloads        = true
+    has_issues           = true
+    has_projects         = true
+    has_wiki             = true
+    visibility           = "public"
+    vulnerability_alerts = true
+    overwrite            = false
+    topics = [
+      "azurerm",
+      "module",
+      "terraform",
+    ]
   }
 ]
